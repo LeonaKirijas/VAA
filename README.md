@@ -26,3 +26,28 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-github-username/vaa.git
+2. Open the project in Android Studio
+3. Build the project and run it on an Android device.
+
+### Permissions
+
+## The app requires the following permissions:
+
+- **CAMERA: To access the camera feed for object detection.
+- **INTERNET: For potential future online features.
+- **VIBRATE: For vibration feedback when new objects are detected.
+- **FLASHLIGHT: To control the device flashlight when in low-light conditions.
+- **Make sure to grant these permissions to ensure the app works as expected.
+
+### Usage
+1. Object Detection: Start the app and point your camera at objects. The app will announce detected objects via TTS.
+2. Flashlight Control: The flashlight will automatically turn on in low-light conditions. You can also manually toggle the flashlight using the button at the bottom-right of the screen.
+3. Customizing Voice Settings: Use the sliders at the bottom of the screen to adjust speech rate and pitch for the TTS system.
+4. Tutorial Mode: A tutorial will guide new users through the app on the first launch.
+
+### Technologies Used
+- **Android (Kotlin)
+- **TensorFlow Lite: For object detection.
+- **Google Text-to-Speech (TTS): For audio feedback.
+- **Camera2 API: For live camera feed and image processing.
+- **Vibration API: For tactile notifications.
