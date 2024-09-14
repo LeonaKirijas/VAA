@@ -34,10 +34,10 @@
 ## The app requires the following permissions:
 
 - CAMERA: To access the camera feed for object detection.
-- **INTERNET: For potential future online features.
-- **VIBRATE: For vibration feedback when new objects are detected.
-- **FLASHLIGHT: To control the device flashlight when in low-light conditions.
-- **Make sure to grant these permissions to ensure the app works as expected.
+- INTERNET: For potential future online features.
+- VIBRATE: For vibration feedback when new objects are detected.
+- FLASHLIGHT: To control the device flashlight when in low-light conditions.
+- Make sure to grant these permissions to ensure the app works as expected.
 
 ### Usage
 1. Object Detection: Start the app and point your camera at objects. The app will announce detected objects via TTS.
@@ -46,8 +46,8 @@
 4. Tutorial Mode: A tutorial will guide new users through the app on the first launch.
 
 ### Technologies Used
-- **Android (Kotlin)
-- **TensorFlow Lite: For object detection.
-- **Google Text-to-Speech (TTS): For audio feedback.
-- **Camera2 API: For live camera feed and image processing.
-- **Vibration API: For tactile notifications.
+- Android (Kotlin)
+- TensorFlow Lite: For object detection.
+- Google Text-to-Speech (TTS): For audio feedback.
+- Camera2 API: For live camera feed and image processing.
+- Vibration API: For tactile notifications.
