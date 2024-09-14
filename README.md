@@ -10,7 +10,7 @@
 - **Flashlight Control**: Automatically toggles the flashlight based on ambient light conditions, or can be manually controlled.
 - **Voice Settings**: Users can customize TTS settings like speech rate and pitch.
 - **Tutorial Mode**: First-time users are guided through the basic app features via an on-screen tutorial.
-- **Offline Mode (Coming Soon)**: Allows the app to work without internet access.
+- **Offline Mode**: Allows the app to work without internet access.
 - **Error Handling and Alerts (Coming Soon)**: Provides user-friendly error messages and sound alerts.
 - **Multiple Language Support (Coming Soon)**: Adds support for multiple languages in TTS and UI.
 
