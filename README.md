@@ -1,4 +1,3 @@
-# VAA
 # Visual Assistance App (VAA)
 
 **Visual Assistance App (VAA)** is an Android application designed to assist visually impaired users by detecting objects through a camera feed and providing real-time audio feedback. The app uses a TensorFlow Lite model for offline object detection, integrates Text-to-Speech (TTS) for audible feedback, and offers several accessibility features like vibration notifications and flashlight controls in low-light conditions.
