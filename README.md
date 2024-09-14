@@ -33,7 +33,7 @@
 
 ## The app requires the following permissions:
 
-- *CAMERA: To access the camera feed for object detection.
+- CAMERA: To access the camera feed for object detection.
 - **INTERNET: For potential future online features.
 - **VIBRATE: For vibration feedback when new objects are detected.
 - **FLASHLIGHT: To control the device flashlight when in low-light conditions.
